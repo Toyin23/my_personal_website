@@ -1,7 +1,15 @@
 ---
 title: "my personal website"
-description: |
-  Welcome to the website. I hope you enjoy it!
+image:  "toyin.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/abdulsalam-toyin-b3813336/"
+  - label: Twitter
+    url:  "https://twitter.com/toyin23"
+  - label:  Github
+    url:  "https://github.com/Toyin23"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 

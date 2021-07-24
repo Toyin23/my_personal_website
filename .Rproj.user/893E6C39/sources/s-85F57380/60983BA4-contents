@@ -1,7 +1,9 @@
 name: "my_personal_website"
-title: "my personal website"
+title: "Abdulsalam Toyin"
+theme:  my_theme.css
 description: |
   my personal website
+  
 output_dir: "_site"
 navbar:
   right:
